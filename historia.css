@@ -90,9 +90,6 @@ body {
   height: auto;
 }
 
-img {
-  z-index: 1000;
-}
 
 .reyes {
   margin-top: 0;
@@ -129,4 +126,8 @@ p {
 .molusco {
   border: medium solid black;
   margin-top: 50px;
+}
+
+img {
+  max-width: 1200px;
 }
